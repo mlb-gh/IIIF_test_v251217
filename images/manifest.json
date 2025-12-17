@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mlb-gh.github.io/IIIF_test_v251217/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in mlb-gh/IIIF_test_v251217 project"
+        ]
+    },
+    "items": []
+}
