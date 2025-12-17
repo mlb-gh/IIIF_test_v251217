@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://d4efd5c0-df74-4287-be0f-dbca3c40ca65",
+	"@type": "sc:Manifest",
+	"label": "Sherd of samian pottery",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "It has an applied lion-head spout (cf. Bird 1986: 184, no. 2.216). Unknown findspot. Produced at Trier, South-Western Germany, during the Roman period (late 2nd-mid 3rd century AD). ",
+			"@language": "en"
+		}
+	],
+	"license": "Images can be used for research for a non-commercial purpose or private study. Please contact Manuscripts and Special Collections if you require permission to publish or use an image for any other purpose.",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://771cb173-f7a5-46cd-8daa-6e2b421e7f79",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://5e9874cc-b039-4862-8019-60b1cb2da706",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 3796,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0782d814-4d8d-4d34-8aaf-11f9a9c06cbb",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://mlb-gh.github.io/IIIF_test_v251217/images/25-77290m_C-33-915-B_2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://mlb-gh.github.io/IIIF_test_v251217/images/25-77290m_C-33-915-B_2",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 3796,
+								"width": 5000
+							},
+							"on": "http://5e9874cc-b039-4862-8019-60b1cb2da706"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
