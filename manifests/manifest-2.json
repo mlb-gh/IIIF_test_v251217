@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://d4efd5c0-df74-4287-be0f-dbca3c40ca65",
+	"@id": "https://mlb-gh.github.io/IIIF_test_v251217/manifests/manifest-2.json",
 	"@type": "sc:Manifest",
 	"label": "Sherd of samian pottery",
 	"metadata": [],
